@@ -1,0 +1,53 @@
+[20180525 16:17:42.921 I] ChTcpServer.cpp:22 - server listening...
+[20180525 16:18:18.086 I] ChUpdateObject.cpp:28 - Init...
+[20180525 16:18:18.186 I] ChRoseekObject.cpp:166 - MainCore Init:  0
+[20180525 16:18:18.191 I] ChRoseekObject.cpp:167 - "0"
+[20180525 16:18:18.195 I] ChRoseekObject.cpp:173 - "初始化主库成功"
+[20180525 16:18:18.199 I] ChRoseekObject.cpp:181 - RSWP128SELN
+[20180525 16:18:18.206 I] ChRoseekObject.cpp:189 - Equipment Name:         RSWP128SELN
+SN:                     123456789012
+Sensor Type:            CCD
+Shutter Type:           Global Shutter
+Max Resolution:         1920x1440
+Max FrameRate:          30.0fps
+BIOS Version:           
+CPU ID:                 00 00 00 00 00 00 00 00
+Main Board Version:     
+Main Board Mfn:         1
+IntF Board Version:     
+Expand Board Version:   
+Sensor Code:            
+Sensor Board Version:   
+
+
+Registered Modules Information:
+
+Name: roseek_wp1_maincore              Version: 1.19 Date: Nov_28_2017 Description: Main core module for wp1
+Name: roseek_ct1_fpga                  Version: x.xx Date: xxx_xx_xxxx Description: FPGA module for ct1
+
+[20180525 16:18:18.215 D] ChRoseekObject.cpp:55 - "Equipment Name:         RSWP128SELN"
+[20180525 16:18:18.222 D] ChRoseekObject.cpp:55 - "SN:                     123456789012"
+[20180525 16:18:18.227 D] ChRoseekObject.cpp:55 - "Sensor Type:            CCD"
+[20180525 16:18:18.232 D] ChRoseekObject.cpp:55 - "Shutter Type:           Global Shutter"
+[20180525 16:18:18.241 D] ChRoseekObject.cpp:55 - "Max Resolution:         1920x1440"
+[20180525 16:18:18.246 D] ChRoseekObject.cpp:55 - "Max FrameRate:          30.0fps"
+[20180525 16:18:18.252 D] ChRoseekObject.cpp:55 - "BIOS Version:           "
+[20180525 16:18:18.256 D] ChRoseekObject.cpp:55 - "CPU ID:                 00 00 00 00 00 00 00 00"
+[20180525 16:18:18.261 D] ChRoseekObject.cpp:55 - "Main Board Version:     "
+[20180525 16:18:18.266 D] ChRoseekObject.cpp:55 - "Main Board Mfn:         1"
+[20180525 16:18:18.273 D] ChRoseekObject.cpp:55 - "IntF Board Version:     "
+[20180525 16:18:18.278 D] ChRoseekObject.cpp:55 - "Expand Board Version:   "
+[20180525 16:18:18.283 D] ChRoseekObject.cpp:55 - "Sensor Code:            "
+[20180525 16:18:18.288 D] ChRoseekObject.cpp:55 - "Sensor Board Version:   "
+[20180525 16:18:18.292 D] ChRoseekObject.cpp:55 - ""
+[20180525 16:18:18.297 D] ChRoseekObject.cpp:55 - ""
+[20180525 16:18:18.303 D] ChRoseekObject.cpp:55 - "Registered Modules Information:"
+[20180525 16:18:18.307 D] ChRoseekObject.cpp:55 - ""
+[20180525 16:18:18.311 D] ChRoseekObject.cpp:55 - "Name: roseek_wp1_maincore              Version: 1.19 Date: Nov_28_2017 Description: Main core module for wp1"
+[20180525 16:18:18.317 D] ChRoseekObject.cpp:101 - "1.19"
+[20180525 16:18:18.321 I] ChRoseekObject.cpp:59 - "MainCore:1.19"
+[20180525 16:18:18.326 D] ChRoseekObject.cpp:55 - "Name: roseek_ct1_fpga                  Version: x.xx Date: xxx_xx_xxxx Description: FPGA module for ct1"
+[20180525 16:18:18.332 D] ChFileServer.cpp:28 - file server listening...
+[20180525 16:18:18.337 D] ChClientSocket.cpp:89 - file server listening...
+[20180525 16:18:18.374 D] ChFileServer.cpp:80 - file connected
+[20180525 16:20:25.095 Info] ChTcpServer.cpp:22 - server listening...
